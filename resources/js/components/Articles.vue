@@ -41,7 +41,7 @@ export default {
         return {
              todos: [
                 { id: 1, body: 'Bring Milk', completed: true },
-                { id: 2, body: 'Groceies', completed: false },
+                { id: 2, body: 'Groceries', completed: false },
                 { id: 3, body: 'Clean home', completed: false },
                 { id: 4, body: 'Walking', completed: false },
                 { id: 5, body: 'Meeting client', completed: false },
